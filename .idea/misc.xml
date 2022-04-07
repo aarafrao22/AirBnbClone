@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Rao Aaraf Younus/AndroidStudioProjects/AirBnb/app/src/main/res/drawable/bg.xml" value="0.1285" />
         <entry key="..\:/Users/Rao Aaraf Younus/AndroidStudioProjects/AirBnb/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1285" />
+        <entry key="..\:/Users/Rao Aaraf Younus/AndroidStudioProjects/AirBnb/app/src/main/res/drawable/imageBg.xml" value="0.1285" />
+        <entry key="..\:/Users/Rao Aaraf Younus/AndroidStudioProjects/AirBnb/app/src/main/res/drawable/imagebg.xml" value="0.1285" />
         <entry key="..\:/Users/Rao Aaraf Younus/AndroidStudioProjects/AirBnb/app/src/main/res/drawable/toolbaritem.xml" value="0.1285" />
         <entry key="..\:/Users/Rao Aaraf Younus/AndroidStudioProjects/AirBnb/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/Rao Aaraf Younus/AndroidStudioProjects/AirBnb/app/src/main/res/menu/navbarmenu.xml" value="0.27291666666666664" />
