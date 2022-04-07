@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Explore"
+        android:id="@+id/explore"
+        android:icon="@drawable/ic_baseline_search_24"/>
+
+    <item
+        android:title="Wishlist"
+        android:id="@+id/wishlist"
+        android:icon="@drawable/ic_baseline_search_24"/>
+
+    <item
+        android:title="Trips"
+        android:id="@+id/trips"
+        android:icon="@drawable/ic_baseline_search_24"/>
+
+    <item
+        android:title="Inbox"
+        android:id="@+id/inbox"
+        android:icon="@drawable/ic_baseline_search_24"/>
+
+    <item
+        android:title="Profile"
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_baseline_search_24"/>
+</menu>
